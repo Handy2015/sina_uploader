@@ -1,0 +1,28 @@
+{
+  "name": "sina_uploader",
+  "version": "1.0.0",
+  "description": "file uploader",
+  "main": "index.js",
+  "scripts": {
+    "test": "element"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Handy2015/sina_uploader.git"
+  },
+  "keywords": [
+    "element"
+  ],
+  "author": "JiM_Hao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Handy2015/sina_uploader/issues"
+  },
+  "homepage": "https://github.com/Handy2015/sina_uploader#readme",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    
+  }
+}
