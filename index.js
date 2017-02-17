@@ -1,2 +1,2 @@
-const SinaUploader = require('./src/UpLoader')
+const SinaUploader = require('./src/vue/UpLoader')
 module.exports = SinaUploader
